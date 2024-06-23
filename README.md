@@ -13,8 +13,8 @@
 
 [First level](first level):
 - [Java Streams](first%20level/streams/README.md);
-  - Когда
-  - Зачем
+  - Когда Java 
+  - Зачем 
 - [Java Lambdas](first level/lambdas.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)

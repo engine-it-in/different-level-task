@@ -1,12 +1,10 @@
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 # Java Exceptions
-
-<!-- TOC start -->
-
 - [Java Exceptions](#java-exceptions)
     * [Classification](#classification)
     * [Hierarchy](#hierarchy)
-
-<!-- TOC end -->
+***
 
 Исключения - это классы, необходимость которых заключается в том, чтобы сообщить об исключительной ситуации (нередко
 ошибке) в процессе исполнения программы.

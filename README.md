@@ -12,13 +12,15 @@
 ## Содержание
 
 [First level](first level):
-- [Java Streams](first%20level/streams/README.md);
-- [Java Lambdas](first level/lambdas.md)
+- Java 
+  - [Streams](first%20level/streams/README.md);
+  - [Lambda](first level/lambdas.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)
-- [REST](first level/rest.md), [Swagger](first level/swagger.md)
+- [REST](first level/rest.md), 
+- [Swagger](first level/swagger.md)
 - Общее понимание аннотаций [Lombok](common/lombok.md)
-- Обработка исключений в Java, [иерархия исключений](first level/exceptions.md)
+- Обработка исключений в Java, [иерархия исключений](first level/ecxeptions/README)
 - Библиотеки [логирования в Java](first level/logging.md)
 - [HSQL](first level/hsql.md), [Postgresql](first level/postgres.md)
 - Общее понимание [MyBatis](first level/mybatis.md), Hibernate, [JPA](second level/jpa.md)

@@ -1,8 +1,6 @@
-<!-- TOC -->
 * [Streams API](#streams-api)
   * [Non-Terminal Operations](#non-terminal-operations)
   * [Terminal Operations](#terminal-operations)
-<!-- TOC -->
 
 # Streams API
 Api, используемое для обработки и сокращения коллекций.

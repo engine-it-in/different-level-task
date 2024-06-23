@@ -12,7 +12,9 @@
 ## Содержание
 
 [First level](first level):
-- [Java Streams](first%20level/streams/README.md), [Java Lambdas](first level/lambdas.md)
+- [Java Streams](first%20level/streams/README.md);
+  - 
+- [Java Lambdas](first level/lambdas.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)
 - [REST](first level/rest.md), [Swagger](first level/swagger.md)

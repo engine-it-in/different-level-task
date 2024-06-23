@@ -1,4 +1,4 @@
-[Вернуться назад](README.md)
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
 * [Streams API](#streams-api)
   * [Non-Terminal Operations](#non-terminal-operations)

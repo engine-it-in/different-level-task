@@ -7,13 +7,14 @@
 * Проект для осознания и фиксирования вопросов;
 
 ## Как с этим работать?
-* Навигация по вопросам происходит из основного оглавления;
+* Навигация по вопросам происходит из оглавления;
 
 ## Содержание
 
 [First level](first level):
 - [Java Streams](first%20level/streams/README.md);
-  - 
+  - Когда
+  - Зачем
 - [Java Lambdas](first level/lambdas.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)

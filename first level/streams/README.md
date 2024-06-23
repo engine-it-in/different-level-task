@@ -1,7 +1,9 @@
+[Вернуться назад](README.md)
+***
 * [Streams API](#streams-api)
   * [Non-Terminal Operations](#non-terminal-operations)
   * [Terminal Operations](#terminal-operations)
-
+***
 # Streams API
 Api, используемое для обработки и сокращения коллекций.
 

@@ -4,15 +4,15 @@
 * Проект-конспект с вопросами и теорией разной степени сложности по Java и Spring;
 
 ## Какая от это польза?
-* Проект для осознания и фиксирования вопросов разной сложности;
+* Проект для осознания и фиксирования вопросов;
 
 ## Как с этим работать?
 * Навигация по вопросам происходит из основного оглавления;
 
 ## Содержание
 
-[1](first level):
-- [Java Streams](first level/streams.md), [Java Lambdas](first level/lambdas.md)
+[First level](first level):
+- [Java Streams](first%20level/streams/README.md), [Java Lambdas](first level/lambdas.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)
 - [REST](first level/rest.md), [Swagger](first level/swagger.md)
@@ -24,7 +24,7 @@
 - Общее понимание [микросервисной архитектуры](first level/microservices.md): проблемы и выигрыши
 - Хорошо уметь пользоваться [JUnit](first level/junit.md), [Mockito](first level/mockito.md), [Test Containers](first level/test_containers.md)
 
-[2](second level) :
+[Second level](second level) :
 - Работа с [памятью Java](second level/memory.md)
 - Работа с [многопоточностью в Java](second level/multithreading.md)
     - [Асинхронные обработчики в spring boot](second level/async.md);
@@ -39,7 +39,7 @@
 - Чёткое следование [SOLID](second level/solid.md)
 - Уметь работать под [Linux](second level/linux.md)
 
-[3](third level):
+[Third level](third level):
 - Опыт самостоятельного проектирования и развития с нуля модулей и подсистем
 - Значительное покрытие кода [юнит-тестами](common/ut.md)
 - Опыт оптимизации и [отладка кода под нагрузкой](third level/debug_under_load.md)

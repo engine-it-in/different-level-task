@@ -14,7 +14,7 @@
 [First level](first level):
 - Java 
   - [Streams](first%20level/streams/README.md);
-  - [Lambda](first level/lambdas.md)
+  - [Lambda](first%20level/lambdas/README.md)
 - Структура [GIT](first level/git.md)
 - Работать со [Spring Boot](common/spring.md)
 - [REST](first level/rest.md), 

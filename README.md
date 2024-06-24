@@ -25,7 +25,7 @@
 - Работать со [Spring Boot](common/spring/README.md);
 - [REST](first%20level/rest/README.md);
 - [Swagger](first%20level/swagger/README.md);
-- Общее понимание аннотаций [Lombok](common/lombok/README.md);
+- Общее понимание аннотаций [Lombok](common/lombok/README.md) - **here**;
 - Обработка исключений в Java, [иерархия исключений](first%20level/ecxeptions/README.md);
 - Библиотеки [логирования в Java](first%20level/logging/README.md);
 - БД:

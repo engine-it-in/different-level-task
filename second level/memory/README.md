@@ -1,9 +1,10 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Java memory](#java-memory)
   * [Concepts](#concepts)
   * [Recommendations](#recommendations)
   * [Garbage Collector](#garbage-collector)
-<!-- TOC -->
+***
 
 # Java memory
 

@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [NoSQL](#nosql)
   * [Redis](#redis)
     * [Example:](#example-)
@@ -7,7 +8,7 @@
     * [Annotations](#annotations)
   * [MongoDB](#mongodb)
     * [Вложенные документы (классы)](#вложенные-документы--классы-)
-<!-- TOC -->
+***
 
 # NoSQL
 

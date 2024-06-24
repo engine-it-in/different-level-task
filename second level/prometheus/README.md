@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Prometheus](#prometheus)
   * [Features](#features)
     * [Metrics](#metrics)
@@ -6,7 +7,7 @@
     * [PromQL](#promql)
     * [Alerting](#alerting)
     * [Graphs](#graphs)
-<!-- TOC -->
+***
 
 # Prometheus
 

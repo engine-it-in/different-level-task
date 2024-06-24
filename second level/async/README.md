@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Async processes in applications](#async-processes-in-applications)
   * [@EnableAsync](#enableasync)
   * [@Async](#async)
@@ -7,7 +8,7 @@
   * [Executor](#executor)
     * [Config via Properties](#config-via-properties)
     * [Manual configuration](#manual-configuration)
-<!-- TOC -->
+***
 
 # Async processes in applications
 

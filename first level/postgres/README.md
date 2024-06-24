@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Postgres](#postgres)
   * [Основные характеристики PostgreSQL:](#основные-характеристики-postgresql-)
     * [Соответствие SQL](#соответствие-sql)
@@ -24,7 +25,7 @@
     * [BRIN](#brin)
       * [Пример использования](#пример-использования-3)
   * [Последовательности в PostgreSQL](#последовательности-в-postgresql)
-<!-- TOC -->
+***
 
 # Postgres
 

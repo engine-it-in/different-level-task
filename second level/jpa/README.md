@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Java Persistence API (JPA)](#java-persistence-api--jpa-)
   * [What is JPA](#what-is-jpa)
     * [Подход к работе с данными](#подход-к-работе-с-данными)
@@ -15,7 +16,7 @@
   * [Hikari](#hikari)
   * [Flyway](#flyway)
   * [General properties](#general-properties)
-<!-- TOC -->
+***
 
 # Java Persistence API (JPA)
 

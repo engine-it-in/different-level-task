@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Spring Boot](#spring-boot)
   * [Locks in case of @Transaction annotation using](#locks-in-case-of-transaction-annotation-using)
     * [Optimistic Lock](#optimistic-lock)
@@ -9,7 +10,7 @@
   * [@Transactional](#transactional)
     * [Transaction Propagation (распространение).](#transaction-propagation--распространение--)
       * [Отличия между Nested и Requires_new](#отличия-между-nested-и-requiresnew)
-<!-- TOC -->
+***
 
 # Spring Boot
 

@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Kubernetes](#kubernetes)
   * [Components](#components)
     * [Master and Worker Nodes](#master-and-worker-nodes)
@@ -27,7 +28,7 @@
     * [Port Forwarding](#port-forwarding)
     * [Persistent Volume Claims (PVC)](#persistent-volume-claims--pvc-)
   * [General commands](#general-commands)
-<!-- TOC -->
+***
 
 # Kubernetes
 

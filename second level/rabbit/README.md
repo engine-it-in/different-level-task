@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [RabbitMQ](#rabbitmq)
   * [RabbitMQ components:](#rabbitmq-components-)
   * [RabbitMQ - основное](#rabbitmq---основное)
@@ -8,7 +9,7 @@
     * [Хранение сообщений](#хранение-сообщений)
     * [Управление и мониторинг](#управление-и-мониторинг)
     * [Использование в реальных сценариях](#использование-в-реальных-сценариях)
-<!-- TOC -->
+***
 
 # RabbitMQ
 

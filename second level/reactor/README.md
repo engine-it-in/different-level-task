@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Reactor](#reactor)
   * [Components](#components)
     * [Flux](#flux)
@@ -7,7 +8,7 @@
     * [Generators](#generators)
     * [Operations](#operations)
   * [Principle of work](#principle-of-work)
-<!-- TOC -->
+***
 
 # Reactor
 

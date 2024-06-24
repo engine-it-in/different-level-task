@@ -1,8 +1,9 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Swagger](#swagger)
   * [Конфигурирование](#конфигурирование)
   * [Contract-first](#contract-first)
-<!-- TOC -->
+***
 
 # Swagger
 

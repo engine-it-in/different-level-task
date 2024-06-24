@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [GOF (Gang of Four)](#gof--gang-of-four-)
   * [Concept](#concept)
   * [Spring](#spring)
@@ -13,7 +14,7 @@
     * [Decorator](#decorator)
     * [Observer](#observer)
     * [Strategy](#strategy)
-<!-- TOC -->
+***
 
 # GOF (Gang of Four)
 

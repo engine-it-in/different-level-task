@@ -1,5 +1,6 @@
 
-****
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 - [ACID](#acid)
     * [Atomicity](#atomicity)
     * [Consistency](#consistency)
@@ -9,7 +10,7 @@
         + [Repeatable Read](#repeatable-read)
         + [Serializable](#serializable)
     * [Durability](#durability)
-**** 
+*** 
 
 # ACID
 ACID — это аббревиатура, обозначающая четыре ключевых свойства, которые должны быть обеспечены транзакциями в базе

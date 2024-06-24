@@ -1,8 +1,9 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [4 части сети](#4-части-сети)
   * [k8s](#k8s)
   * [DNS](#dns)
-<!-- TOC -->
+***
 
 # 4 части сети
 

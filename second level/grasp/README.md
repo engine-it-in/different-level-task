@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [GRASP](#grasp)
   * [Consept](#consept)
   * [Understanding](#understanding)
@@ -10,7 +11,7 @@
     * [High Cohesion](#high-cohesion)
     * [Polymorphism](#polymorphism)
     * [Pure Fabrication (@Component)](#pure-fabrication--component-)
-<!-- TOC -->
+***
 
 # GRASP
 

@@ -4,6 +4,7 @@
   * [Non-Terminal Operations](#non-terminal-operations)
   * [Terminal Operations](#terminal-operations)
 ***
+
 # Streams API
 ## Что это?
 * Api, используемое для обработки коллекций;

@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Docker](#docker)
   * [Components](#components)
     * [Daemon](#daemon)
@@ -10,7 +11,7 @@
   * [Dockerfile](#dockerfile)
     * [Instructions](#instructions)
   * [The very base image](#the-very-base-image)
-<!-- TOC -->
+***
 
 # Docker
 

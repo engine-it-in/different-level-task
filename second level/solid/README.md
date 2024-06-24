@@ -1,4 +1,5 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [SOLID](#solid)
   * [Concepts](#concepts)
     * [Single Responsibility](#single-responsibility)
@@ -6,7 +7,8 @@
     * [Liskov Substitution](#liskov-substitution)
     * [Interface segregation](#interface-segregation)
     * [Dependency inversion](#dependency-inversion)
-<!-- TOC -->
+      [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 
 # SOLID
 

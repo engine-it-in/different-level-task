@@ -1,11 +1,12 @@
-<!-- TOC -->
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 * [Multithreading](#multithreading)
   * [Thread](#thread)
   * [Runnable](#runnable)
   * [ExecutorService](#executorservice)
   * [Synchronized](#synchronized)
   * [Volatile](#volatile)
-<!-- TOC -->
+***
 
 # Multithreading
 

@@ -1,11 +1,10 @@
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+***
 # GIT
-
-<!-- TOC -->
-* [GIT](#git)
-  * [General](#general)
-  * [Main commands](#main-commands)
-  * [Git Flow](#git-flow)
-<!-- TOC -->
+* [General](#general)
+* [Main commands](#main-commands)
+* [Git Flow](#git-flow)
+***
 
 `Git` – это распределённая система управления версиями, которая используется для отслеживания изменений в файлах и
 координации работы над этими файлами среди множества людей.

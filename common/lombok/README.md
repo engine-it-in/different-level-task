@@ -75,7 +75,7 @@ public class Example {
 
 * `@EqualsAndHashcode` может неверно отрабатывать, когда entity получает ID через БД -> После сохранения в БД hashcode изменится;
 * Entity должен иметь public или protected конструктор без параметров; 
-* При использовании `@AllArgsConstructor` нужно также добавлять `@NoArgsConstrucror`;
+  * При использовании `@AllArgsConstructor` нужно также добавлять `@NoArgsConstrucror`;
 * `@EqualsAndHashcode` и `@ToString` по-умолчанию используют все поля класса: 
   * То есть они могут спровоцировать работу lazy-полей когда это не нужно; 
     * Это скажется на производительности, вызовет exception если будет выполнено без транзакции; 

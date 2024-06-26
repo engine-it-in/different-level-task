@@ -28,13 +28,13 @@
 - Общее понимание аннотаций [Lombok](common/lombok/README.md);
 - Обработка исключений в Java, [иерархия исключений](first%20level/ecxeptions/README.md);
 - Библиотеки [логирования в Java](first%20level/logging/README.md);
-- БД - **here**:
+- БД:
     - [HSQL](first%20level/hsql/README.md);
     - [Postgresql](first%20level/postgres/README.md);
-- Общее понимание ORM:
+- Общее понимание ORM - **here**:
+    - [JPA](second%20level/jpa/README.md);
     - [MyBatis](first%20level/mybatis/README.md);
     - Hibernate;
-    - [JPA](second%20level/jpa/README.md);
 - Общее понимание [микросервисной архитектуры](first%20level/microservices/README.md): проблемы и выигрыши;
 - Хорошо уметь пользоваться unit test:
     - [JUnit](first%20level/junit/README.md);

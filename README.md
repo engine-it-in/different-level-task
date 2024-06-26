@@ -27,8 +27,8 @@
 - [Swagger](first%20level/swagger/README.md);
 - Общее понимание аннотаций [Lombok](common/lombok/README.md);
 - Обработка исключений в Java, [иерархия исключений](first%20level/ecxeptions/README.md);
-- Библиотеки [логирования в Java](first%20level/logging/README.md) - **here**;
-- БД:
+- Библиотеки [логирования в Java](first%20level/logging/README.md);
+- БД - **here**:
     - [HSQL](first%20level/hsql/README.md);
     - [Postgresql](first%20level/postgres/README.md);
 - Общее понимание ORM:

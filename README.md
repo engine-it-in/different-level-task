@@ -32,9 +32,8 @@
     - [HSQL](first%20level/hsql/README.md);
     - [Postgresql](first%20level/postgres/README.md);
 - Общее понимание ORM - **here**:
-    - [JPA](second%20level/jpa/README.md);
+    - [JPA/Hibernate](second%20level/jpa/README.md);
     - [MyBatis](first%20level/mybatis/README.md);
-    - Hibernate;
 - Общее понимание [микросервисной архитектуры](first%20level/microservices/README.md): проблемы и выигрыши;
 - Хорошо уметь пользоваться unit test:
     - [JUnit](first%20level/junit/README.md);

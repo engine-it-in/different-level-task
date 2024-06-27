@@ -34,7 +34,7 @@
 - Общее понимание ORM:
     - [JPA/Hibernate](second%20level/jpa/README.md);
     - [MyBatis](first%20level/mybatis/README.md);
-- Общее понимание [микросервисной архитектуры](first%20level/microservices/README.md): проблемы и выигрыши - - **here**;
+- Общее понимание [микросервисной архитектуры](first%20level/microservices/README.md): проблемы и выигрыши;
 - Хорошо уметь пользоваться unit test:
     - [JUnit](first%20level/junit/README.md);
     - [Mockito](first%20level/mockito/README.md);

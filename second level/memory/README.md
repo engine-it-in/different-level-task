@@ -7,8 +7,19 @@
 ***
 
 # Java memory
+статьи
+* https://appmaster.io/ru/blog/arkhitektura-virtual-noi-mashiny-java
+* https://proselyte.net/jvm-basics/
+* https://struchkov.dev/blog/ru/memory-in-java/
+* https://habr.com/ru/articles/685518/
+* https://habr.com/ru/articles/440590/
 
-В Java управление памятью полностью осуществляется сборщиком мусора.
+
+# Java memory
+
+* Устройство памяти
+* В Java управление памятью полностью осуществляется GC;
+
 
 ## Concepts
 

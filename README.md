@@ -57,7 +57,7 @@
 - [Docker](second%20level/docker/README.md);
 - [Kubernetes](second%20level/kubernetes/README.md);
 - [Prometheus](second%20level/prometheus/README.md);
-- Хорошее знание [Lombok](common/lombok/README.md)
+- Хорошее знание [Lombok](common/lombok/README.md);
 - Понимание и активное использование в работе шаблонов:
     - [GRASP](second%20level/grasp/README.md);
     - [GoF](second%20level/gof/README.md);

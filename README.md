@@ -71,7 +71,7 @@
 - Опыт оптимизации и [отладка кода под нагрузкой](third%20level/debug_under_load/README.md);
 - При отладке в значительной мере использует mocks, stubs, мало зависит от ИТ ландшафта;
 - Понимает и следует [принципам XP](third%20level/xp/README.md);
-- Понимать и [развивает процессы CI/CD](third%20level/ci_cd/README.md) в команде и в компании;
+- Понимать и развивает процессы CI/CD в команде и в компании;
 - Понимать как устроен [сетевой промышленный контур](third%20level/alfa_network/README.md) продукта;
 - Экспертные знания по [Spring](common/spring/README.md);
 - Наличие [технических публикаций](third%20level/articles/README.md);

@@ -167,7 +167,7 @@ public class KafkaProducerService {
 }
 ```
 
-@KafkaListener(topics = "nosbuka", groupId = "demo-kafka-application") - аннотация, которая делает потребителя;
+@KafkaListener(topics = "nikitinia", groupId = "demo-kafka-application") - аннотация, которая делает потребителя;
 Метод может иметь сигнатуру ConsumerRecord<String, KafkaMessage> consumed, позволяющую получить доп.метаданные
 сообщения.
 

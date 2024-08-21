@@ -73,7 +73,8 @@ public class Example {
 
 ## Что может пойти не так при использовании с JPA?
 
-* `@EqualsAndHashcode` может неверно отрабатывать, когда entity получает ID через БД -> После сохранения в БД hashcode изменится;
+* `@EqualsAndHashcode` может неверно отрабатывать, когда entity получает ID через БД -> 
+После сохранения в БД hashcode изменится;
 * Entity должен иметь public или protected конструктор без параметров; 
   * При использовании `@AllArgsConstructor` нужно также добавлять `@NoArgsConstrucror`;
 * `@EqualsAndHashcode` и `@ToString` по-умолчанию используют все поля класса: 

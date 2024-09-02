@@ -5,6 +5,8 @@
     * [Дополнительные возможности](#parametrizedtest)
     * [Setup и Teardown](#setup-и-teardown)
 ***
+![Юнит тесты](https://coggle.it/diagram/ZtYOehw8ivTpSMw_/t/-/42af261401738f0bd7fff01ce4c436a96d55438560fb6c83adda0dca20568e6f)
+***
 
 # JUnit
 

@@ -5,9 +5,9 @@
   * [MOCK](#mock)
   * [STUB](#stub)
 ***
-![Описание картинки](картинка из той же папки)
+![Имитаторы](imitator.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtYbQTbVpak0H-Hu/t/-/271b9711873cd608c1239d030c2da1fd0fff7bf1caac9d266f113efbc69fe3c2)
 ***
 
 # Общее:

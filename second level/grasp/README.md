@@ -12,6 +12,10 @@
     * [Polymorphism](#polymorphism)
     * [Pure Fabrication (@Component)](#pure-fabrication--component-)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # GRASP
 

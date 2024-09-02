@@ -7,6 +7,10 @@
   * [Synchronized](#synchronized)
   * [Volatile](#volatile)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 Статьи - https://github.com/KFalcon2022/lessons/blob/master/roadmap/Road%20Map.md
 

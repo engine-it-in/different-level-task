@@ -4,6 +4,10 @@
   * [Non-Terminal Operations](#non-terminal-operations)
   * [Terminal Operations](#terminal-operations)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Streams API
 ## Что это?

@@ -17,6 +17,10 @@
   * [Flyway](#flyway)
   * [General properties](#general-properties)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Java Persistence API (JPA)
 

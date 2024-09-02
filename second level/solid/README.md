@@ -9,6 +9,10 @@
     * [Dependency inversion](#dependency-inversion)
       [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # SOLID
 

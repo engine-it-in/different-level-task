@@ -11,6 +11,10 @@
     * [Transaction Propagation (распространение).](#transaction-propagation--распространение--)
       * [Отличия между Nested и Requires_new](#отличия-между-nested-и-requiresnew)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Spring Boot
 ## @Transaction - способ управления транзакциями

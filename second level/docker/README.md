@@ -12,6 +12,10 @@
     * [Instructions](#instructions)
   * [The very base image](#the-very-base-image)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Docker
 

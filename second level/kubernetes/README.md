@@ -29,6 +29,10 @@
     * [Persistent Volume Claims (PVC)](#persistent-volume-claims--pvc-)
   * [General commands](#general-commands)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Kubernetes
 

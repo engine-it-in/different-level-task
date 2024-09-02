@@ -9,6 +9,10 @@
     * [Config via Properties](#config-via-properties)
     * [Manual configuration](#manual-configuration)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Async processes
 

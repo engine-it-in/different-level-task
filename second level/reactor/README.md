@@ -9,6 +9,10 @@
     * [Operations](#operations)
   * [Principle of work](#principle-of-work)
 ***
+![Описание картинки](картинка из той же папки)
+***
+[Визуальный конспект](ссылка на картинку)
+***
 
 # Reactor
 

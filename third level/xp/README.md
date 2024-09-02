@@ -14,7 +14,7 @@
 ***
 ![Описание картинки](картинка из той же папки)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtYfAxw8ivTpVO8J/t/-/40b484902a7bde8a4d4acc1906c75b2493ecac929ce19f834eabe0d31e06055d)
 ***
 
 # XP (Extreme Programming):

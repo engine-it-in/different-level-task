@@ -12,9 +12,9 @@
   * [Приоритизация](#приоритизация-)
   * [Адаптивность и гибкость](#адаптивность-и-гибкость-)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](XP.png)
 ***
-[Визуальный конспект](https://coggle.it/diagram/ZtYfAxw8ivTpVO8J/t/-/40b484902a7bde8a4d4acc1906c75b2493ecac929ce19f834eabe0d31e06055d)
+[Визуальный конспект](https://coggle.it/diagram/ZtYfAxw8ivTpVO8J/t/xp/dcb49cffd9f71c57ad533b92a56d4c672d4946ed5756d2869e474970924dff18)
 ***
 
 # XP (Extreme Programming):

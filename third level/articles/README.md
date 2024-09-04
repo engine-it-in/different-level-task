@@ -1,8 +1,8 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](tech.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtiEysrvLIwlJpsn/t/-/f71cffd3ebdd60395f7611439b2856da4d0b931179355f9c22ab58c46e7bf2d7)
 ***
 
 * Retry or No?

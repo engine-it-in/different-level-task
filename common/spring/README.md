@@ -11,7 +11,7 @@
     * [Transaction Propagation (распространение).](#transaction-propagation--распространение--)
       * [Отличия между Nested и Requires_new](#отличия-между-nested-и-requiresnew)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](SPRING_BOOT.png)
 ***
 [Визуальный конспект](https://coggle.it/diagram/Ztd69DbVpak0WJ9J/t/-/1b1ac2a4d115a19522d948db0f3e823b7d3a966e9e0a126ac712db46255cef8e)
 ***

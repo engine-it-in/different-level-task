@@ -3,9 +3,9 @@
 * [Linux](#linux)
   * [Commands](#commands)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](Linux.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtiG8Bw8ivTpgBjb/t/-/b408e3a416ece017849e3dc115aa9ab40130c39455d6c5e8ffa46af6f0cc300b)
 ***
 
 # Linux

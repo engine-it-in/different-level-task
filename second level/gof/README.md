@@ -15,9 +15,9 @@
     * [Observer](#observer)
     * [Strategy](#strategy)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](GOF.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtjBhhw8ivTps2S1/t/gof/6cd0470b9b487c3ae8f5249a31d3b4e51c4cf2c34afaff6d12cd36e30e3ae3f3)
 ***
 
 # GOF (Gang of Four)

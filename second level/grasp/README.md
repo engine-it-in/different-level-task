@@ -12,9 +12,9 @@
     * [Polymorphism](#polymorphism)
     * [Pure Fabrication (@Component)](#pure-fabrication--component-)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](GRASP.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtoQCzbVpak0otmF/t/-/aeacdc321cedf634e3bac254583d85df6295e088cf9f83ebb78643319af862e9)
 ***
 
 # GRASP

@@ -8,9 +8,9 @@
     * [Alerting](#alerting)
     * [Graphs](#graphs)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](PROMETHEUS.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZtsmZjbVpak0jGJz/t/-/6b45401fc7c7dccb362744d5177c61227c4767f6f0cda1db4c45d13d93365423)
 ***
 
 # Prometheus

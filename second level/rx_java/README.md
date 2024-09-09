@@ -4,9 +4,9 @@
   * [Components](#components)
   * [Operators](#operators)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](RX_JAVA.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/Zt8C1KWLaORTxCTT/t/rx-java/e8bd7674353c7054a51fbfe477027e7d1ae8310e855003fd4cf132a795bc9225)
 ***
 
 # RxJava

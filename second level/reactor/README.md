@@ -9,9 +9,9 @@
     * [Operations](#operations)
   * [Principle of work](#principle-of-work)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](REACTOR.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/Zt8AA4Kz-e0WqhYA/t/reactor/df8c96d13b1a22bd2dad60529357d5aa5d2c83ab9a6b0e99c4050f7958316a7d)
 ***
 
 # Reactor

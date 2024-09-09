@@ -12,9 +12,9 @@
     * [Instructions](#instructions)
   * [The very base image](#the-very-base-image)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](Docker.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/Zt4Ie3dV1iFRONkx/t/docker/725a975ac19620ea207fd6c87bc8335df087452ab9228fb89ada5c358f58db7a)
 ***
 
 # Docker

@@ -1,4 +1,4 @@
-[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+&[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
 * [Java Persistence API (JPA)](#java-persistence-api--jpa-)
   * [What is JPA](#what-is-jpa)
@@ -19,7 +19,7 @@
 ***
 ![Описание картинки](картинка из той же папки)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZuCjvHdV1iFRbDnV/t/-/912dc9e74d42f2cef682553199820a17b31c40b14ede3085f077d68fdd24c13c)
 ***
 
 # Java Persistence API (JPA)

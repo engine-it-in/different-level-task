@@ -23,9 +23,9 @@
       * [Json](#json)
       * [Avro](#avro)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](KAFKA.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/Zt9Tt6WLaORTHxcD/t/kafka/db2580a374bc0ed5173addb2b24983e83c7d2d057621154014edcb483f47a0bc)
 ***
 
 # Kafka
@@ -182,7 +182,7 @@ public class KafkaProducerService {
 @RequiredArgsConstructor
 public class KafkaConsumerService {
 
-    @KafkaListener(topics = "nosbuka")
+    @KafkaListener(topics = "nikitinia")
     public void consume(ConsumerRecord<String, KafkaMessage> consumed) {
         log.info("Consumed message with offset {} with value {}",
                 consumed.offset(),

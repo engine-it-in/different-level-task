@@ -7,9 +7,9 @@
   * [Synchronized](#synchronized)
   * [Volatile](#volatile)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](download.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZuF1qaWLaORTtUmz/t/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/b93fb3ff56f92917f384824d1acaf7757b4b0747fe69914a1c0a71492eec27f7)
 ***
 
 Статьи - https://github.com/KFalcon2022/lessons/blob/master/roadmap/Road%20Map.md

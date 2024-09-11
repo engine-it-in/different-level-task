@@ -9,9 +9,9 @@
     * [Config via Properties](#config-via-properties)
     * [Manual configuration](#manual-configuration)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки]()
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZuCuOaWLaORTNVaJ/t/async/1e2d46aec1139122eb9524bce0e5fd46186933f1877d5cf669e65550144ad8d9)
 ***
 
 # Async processes

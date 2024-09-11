@@ -7,10 +7,10 @@
     * [Garbage Collector](#garbage-collector)
 
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](JVM.png)
 ***
-[Визуальный конспект](ссылка на картинку)
-***Ht
+[Визуальный конспект](https://coggle.it/diagram/ZuG5bIKz-e0W89nI/t/-/006ca425c8ebcc63022b364133cdb5ad163fdd01dc121fcf002277d7bda4fc50)
+***
 
 # Java memory
 

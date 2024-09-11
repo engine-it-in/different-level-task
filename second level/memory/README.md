@@ -10,15 +10,7 @@
 ![Описание картинки](картинка из той же папки)
 ***
 [Визуальный конспект](ссылка на картинку)
-***
-
-# Java memory
-
-статьи
-
-* https://appmaster.io/ru/blog/arkhitektura-virtual-noi-mashiny-java
-* https://proselyte.net/jvm-basics/
-* https://struchkov.dev/blog/ru/memory-in-java/
+***Ht
 
 # Java memory
 

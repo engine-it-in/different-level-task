@@ -17,7 +17,7 @@
   * [Flyway](#flyway)
   * [General properties](#general-properties)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](JPA.png)
 ***
 [Визуальный конспект](https://coggle.it/diagram/ZuCjvHdV1iFRbDnV/t/-/912dc9e74d42f2cef682553199820a17b31c40b14ede3085f077d68fdd24c13c)
 ***

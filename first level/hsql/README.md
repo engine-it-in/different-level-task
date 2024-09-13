@@ -3,9 +3,9 @@
 * [HSQL](#hsql)
   * [Work modes:](#work-modes-)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](HyperSQL_DB.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZuP8kqWLaORTxBMj/t/hypersql-db/e0e1922a7cd25d399e63ac75201ea2b6cc454bd75558710831035598fd7d937e)
 ***
 
 # HSQL

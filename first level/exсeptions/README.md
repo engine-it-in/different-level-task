@@ -5,9 +5,9 @@
     * [Classification](#classification)
     * [Hierarchy](#hierarchy)
 ***
-![Описание картинки](картинка из той же папки)
+![Описание картинки](Exception.png)
 ***
-[Визуальный конспект](ссылка на картинку)
+[Визуальный конспект](https://coggle.it/diagram/ZuQP66WLaORT25zu/t/exception/bf0093828147289ab94d4ce0e8eb4e4264a8272b5b1a6166fa537fa3052498a6)
 ***
 
 Исключения:

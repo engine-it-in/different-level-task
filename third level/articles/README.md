@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](tech_pub_main.png)
 ***
 ![Описание картинки](tech.png)
 ***

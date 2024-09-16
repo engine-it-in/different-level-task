@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](MyBatis_main.png)
 ***
 * [MyBatis](#mybatis)
   * [Подход к работе с данными](#подход-к-работе-с-данными)

@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](ASYNC_main.png)
 ***
 * [Async processes in applications](#async-processes-in-applications)
   * [@EnableAsync](#enableasync)

@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](net_main.png)
 ***
 * [4 части сети](#4-части-сети)
   * [k8s](#k8s)

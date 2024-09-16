@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](multi_main.png)
 ***
 * [Multithreading](#multithreading)
   * [Thread](#thread)

@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](under_load_main.png)
 ***
   * [Оптимизация](#оптимизация)
     * [Оптимизация алгоритмов](#оптимизация-алгоритмов)

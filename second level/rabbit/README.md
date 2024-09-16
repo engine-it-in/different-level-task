@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](Rabit_MQ_main.png)
 ***
 * [RabbitMQ](#rabbitmq)
   * [RabbitMQ components:](#rabbitmq-components-)

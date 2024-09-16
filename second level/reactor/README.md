@@ -1,6 +1,6 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
-![Памятка]()
+![Памятка](REACTOR_main.png)
 ***
 * [Reactor](#reactor)
   * [Components](#components)

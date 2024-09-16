@@ -1,6 +1,8 @@
 
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Памятка](ACID.png)
+***
 - [ACID](#acid)
     * [Atomicity](#atomicity)
     * [Consistency](#consistency)

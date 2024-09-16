@@ -1,5 +1,7 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Памятка]()
+***
 * [Docker](#docker)
   * [Components](#components)
     * [Daemon](#daemon)

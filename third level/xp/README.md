@@ -1,5 +1,7 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Памятка]()
+***
 * [XP](#xp-extreme-programming)
   * [Коммуникация](#коммуникация-)
   * [Обратная связь](#обратная-связь)

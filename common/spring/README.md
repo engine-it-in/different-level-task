@@ -1,5 +1,7 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Памятка]()
+***
 * [Spring Boot](#spring-boot)
   * [Locks in case of @Transaction annotation using](#locks-in-case-of-transaction-annotation-using)
     * [Optimistic Lock](#optimistic-lock)

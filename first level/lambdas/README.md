@@ -7,11 +7,6 @@
         * [Collector](#collector)
         * [Function](#function)
         * [Comparator](#comparator)
-***
-![Описание картинки](картинка из той же папки)
-***
-[Визуальный конспект](ссылка на картинку)
-***
 
 # Lambdas
 

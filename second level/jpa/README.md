@@ -1,4 +1,6 @@
-&[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+[Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
+******
+![Памятка]()
 ***
 * [Java Persistence API (JPA)](#java-persistence-api--jpa-)
   * [What is JPA](#what-is-jpa)

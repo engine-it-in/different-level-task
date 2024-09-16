@@ -1,5 +1,7 @@
 [Вернуться к оглавлению](https://github.com/engine-it-in/different-level-task/blob/main/README.md)
 ***
+![Памятка]()
+***
 * [GOF (Gang of Four)](#gof--gang-of-four-)
   * [Concept](#concept)
   * [Spring](#spring)

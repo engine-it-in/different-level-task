@@ -19,7 +19,6 @@
 # Async processes
 
 ## @EnableAsync
-<
 Помещается на конфигурацию, включает асинхронный режим обработки в Spring Boot.
 
 ```java
